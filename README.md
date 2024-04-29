@@ -1,5 +1,3 @@
-# Primeiro repositório git criado
-Repositório para praticar comandos **git**
+# Tabela Periódica
 
-- Testando comandos e edição no arquivo README.md
-> Logo após commitar essas mudanças
+Projeto escolar de uma tabela periódica em HTML e CSS utilizando table, com o intuito de aprender a utilização das tags relacionadas a table e class em CSS.
